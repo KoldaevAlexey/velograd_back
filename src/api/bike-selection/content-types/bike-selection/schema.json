@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "bikes_selection",
+  "info": {
+    "singularName": "bike-selection",
+    "pluralName": "bikes-selection",
+    "displayName": "Подбор велосипеда",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "data": {
+      "type": "json"
+    }
+  }
+}
